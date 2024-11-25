@@ -1,0 +1,86 @@
+.hinhnen
+{
+    background-repeat: no-repeat;
+    background-image: url(https://batdongsanexpress.vn/dataweb/images/ban-do-quy-hoach-vinh-phuc.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    
+}
+
+header {
+    background: #2c3e50;
+    color: white;
+    padding: 20px 0;
+}
+
+header h1 {
+    text-align: center;
+    margin: 0;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.noidung
+{
+    text-align: center;
+    border: 1px ;
+    margin: auto;
+    width: 650px;
+   
+}
+
+.section {
+    padding: 40px 20px;
+    text-align: center;
+}
+footer {
+    background: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+p{
+    text-align: center;
+    margin: auto;
+    width: 650px;
+    border: 1px ;
+}
+h2 span{
+    text-align: center;
+    margin: auto;
+    border: 1px ;
+    background-color: pink ;
+    display: inline-block;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
